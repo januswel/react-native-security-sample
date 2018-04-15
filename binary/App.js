@@ -1,5 +1,5 @@
 /**
- * Sample React Native App to show configurations in bundled file
+ * Sample React Native App to show configurations in binary file
  */
 
 import React, { Component } from 'react';
