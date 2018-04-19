@@ -6,7 +6,7 @@ setup
 
 ```sh
 npm install
-echo "API_TOKEN=xxxxxxxxyyyyyyyyzzzzzzzz" > .env
+echo "SECRET=xxxxxxxxyyyyyyyyzzzzzzzz" > .env
 
 react-native run-ios
 # or

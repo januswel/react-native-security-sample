@@ -16,7 +16,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.text}>
-          {Config.API_TOKEN}
+          {Config.SECRET}
         </Text>
       </View>
     );

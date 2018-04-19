@@ -8,7 +8,7 @@ import {
   Text,
   View
 } from 'react-native';
-import { API_TOKEN } from 'react-native-dotenv';
+import { SECRET } from 'react-native-dotenv';
 
 type Props = {};
 export default class App extends Component<Props> {
@@ -16,7 +16,7 @@ export default class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.text}>
-          {API_TOKEN}
+          {SECRET}
         </Text>
       </View>
     );
