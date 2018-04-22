@@ -1,4 +1,4 @@
-react-native-sercuryt-sample
+react-native-security-sample
 ===
 
 This repository is sample apps for "React Native Extra Reactions #1 Don't Embed Them"
